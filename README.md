@@ -1,4 +1,4 @@
-# IP-Location
+# IP-Loc
 Retrieves IP Locations of IP List
 
 Use -h for help
